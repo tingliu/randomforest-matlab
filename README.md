@@ -1,5 +1,5 @@
 # randomforest-matlab
-This is a fork of the Google Code project randomforest-matlab by Abhishek Jaiantilal under GNU GPL v2. Please cite the original project if you use it. The original README is as below:
+This is a fork of the Google Code project randomforest-matlab (https://code.google.com/archive/p/randomforest-matlab) by Abhishek Jaiantilal under GNU GPL v2. Please cite the original project if you use it. The original README is as below:
 
 
 Random Forest (Regression, Classification and Clustering) implementation for MATLAB (and Standalone)
